@@ -1,0 +1,12 @@
+{
+  "name": "bitcoin-prediction",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Tai Tantipiwatanaskul",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "crypto": "^1.0.1",
+    "dotenv": "^8.2.0"
+  }
+}
